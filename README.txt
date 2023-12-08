@@ -1,0 +1,1 @@
+g++ -o snake_game main.cpp components/snake.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -std=c++20
